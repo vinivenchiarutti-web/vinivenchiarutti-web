@@ -7,7 +7,7 @@ Preparando-se para o mercado de tecnologia**
 
 ## Como me encontrar
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:vini.venchiarutti13@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](vini.venchiarutti13@gmail.com) 
 
 # programas que eu estou estudando 
 <div style="display: inline_block"><br>
